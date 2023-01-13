@@ -9,11 +9,11 @@ Este repositório ensina a usar o Arduino junto com o Motor Shield L293D para co
 
 ## Autor
 Professor José de Assis
-## Como apoiar os cursos gratuitos e projetos?
+## Como apoiar os tutoriais e projetos?
 ### Você pode:
 :heavy_check_mark: Inscrever-se no canal do YouTube - [INSCREVA-SE!](https://www.youtube.com/c/RoboticapraticaBr/?sub_confirmation=1)
 
-:heavy_check_mark: Compartilhar os cursos e projetos
+:heavy_check_mark: Compartilhar os tutoriais e projetos
 
 :heavy_check_mark: Seguir-me nas redes sociais:
 <p align="left">
