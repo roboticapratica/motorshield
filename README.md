@@ -3,11 +3,6 @@
 ![motor shield L293D](https://raw.githubusercontent.com/roboticapratica/motorshield/main/img/motorshield.jpg)
 
 O motor shield L293D é uma placa que pode ser conectada ao arduino, permitindo controlar até 4 motores DC ou 2 motores de passo e 2 servos, sendo muito utilizado em projetos de robótica.
-Este repositório ensina a usar o Arduino junto com o Motor Shield L293D para controlar:
-- 4 motores de corrente contínua
-- 1 micro servo
-- 1 sensor ultrassônico HC-SR04
-
 ### Dados técnicos
 - 2 chips L293D (Cada chip vem com 2 pontes H)
 - Tensão de operação: 5V a 12V
@@ -21,5 +16,9 @@ Até 2 Motores de Passo (Unipolar ou Bipolar) com bobina unica, dupla ou passos 
 - Terminais em bloco de 2 pinos e jumper para conexão de alimentação externa
 
 ## Diagrama elétrico
-
+Esquema de ligação do Motor Shield L293D no Arduino para controlar:
+- 4 motores de corrente contínua
+- 1 micro servo
+- 1 sensor ultrassônico HC-SR04
+---
 ![diagrama motor shield L293D arduino](https://github.com/roboticapratica/motorshield/blob/main/diagrama%20el%C3%A9trico.jpg)
