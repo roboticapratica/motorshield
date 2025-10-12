@@ -21,4 +21,4 @@ Esquema de ligação do Motor Shield L293D no Arduino para controlar:
 - 1 micro servo
 - 1 sensor ultrassônico HC-SR04
 ---
-![diagrama motor shield L293D arduino](https://github.com/roboticapratica/motorshield/blob/main/diagrama%20el%C3%A9trico.jpg)
+![diagrama motor shield L293D arduino](https://github.com/roboticapratica/motorshield/blob/main/img/diagrama%20el%C3%A9trico.jpg)
